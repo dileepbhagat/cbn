@@ -51,8 +51,4 @@ public interface APIConstants {
 	String SAVE_PROFILE_PLANT_DATA="/save/plant/data";
 	String UPDATE_PROFILE_PLANT_DATA="/update/plant/data";
 	
-	
-	String DEMO_VARIABLE="DEMO_VARIABLE";
-	
-	
 }
