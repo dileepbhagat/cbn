@@ -52,4 +52,7 @@ public interface APIConstants {
 	String UPDATE_PROFILE_PLANT_DATA="/update/plant/data";
 	
 	
+	String DEMO_VARIABLE="DEMO_VARIABLE";
+	
+	
 }
